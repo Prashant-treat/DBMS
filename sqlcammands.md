@@ -974,3 +974,4 @@ The availability column means the command has an example or explanation in this 
 - What index and query plan does it need?
 - Can a retry duplicate the operation?
 - How will it be backed up, monitored, and rolled back?
+
