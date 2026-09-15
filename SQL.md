@@ -4,7 +4,6 @@ Practical SQL notes for backend development, database design, placements, and in
 
 ## Table of Contents
 
-
 1. [How to Use](#how-to-use)
 2. [Priority Map](#priority-map)
 3. [Database Foundations](#database-foundations)
